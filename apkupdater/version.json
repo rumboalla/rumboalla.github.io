@@ -1,1 +1,5 @@
-{ "version": "30", "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.0-beta1/app-release.apk" }
+{
+  "version": "30",
+  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.0-beta1/app-release.apk",
+  "changelog": "TODO"
+}
