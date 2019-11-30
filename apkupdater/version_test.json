@@ -1,0 +1,5 @@
+{
+  "version": "31",
+  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.0-beta1/app-release.apk",
+  "changelog": "Added DarkGreen and LightGreen Themes. Added more update options. Bug fixing."
+}
