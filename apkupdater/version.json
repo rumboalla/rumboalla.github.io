@@ -1,5 +1,5 @@
 {
-  "version": "32",
-  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.0-beta3/app-release.apk",
-  "changelog": "F-Droid Search. F-Droid Updates. Root install. Android TV support. Spanish translation."
+  "version": "33",
+  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.0-beta4/app-release.apk",
+  "changelog": "Google Play Updates.Google Play Search.Bug fixes."
 }
