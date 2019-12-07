@@ -1,5 +1,5 @@
 {
-  "version": "33",
-  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.0-beta4/app-release.apk",
-  "changelog": "Google Play Updates.\nGoogle Play Search.\nBug fixes."
+  "version": "34",
+  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.0-beta5/app-release.apk",
+  "changelog": "Chinese translation. Handle Google Play links. Bug fixes. Crash reports."
 }
