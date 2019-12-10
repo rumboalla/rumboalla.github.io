@@ -1,5 +1,5 @@
 {
-  "version": "36",
-  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.0-beta7/app-release.apk",
-  "changelog": "More bug fixes."
+  "version": "37",
+  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.0-beta8/app-release.apk",
+  "changelog": "Bug fixes.Cache icons to prevent OOM."
 }
