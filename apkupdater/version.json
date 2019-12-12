@@ -1,5 +1,5 @@
 {
-  "version": "38",
-  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.0/app-release.apk",
-  "changelog": "Caching source icons.\nBug fixes.\nFirst stable release."
+  "version": "39",
+  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.1/app-release.apk",
+  "changelog": "Allow exclusion of apps installed by an App Store (Play, Amazon).\nTurkish translation."
 }
