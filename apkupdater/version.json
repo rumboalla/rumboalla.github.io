@@ -1,5 +1,5 @@
 {
-  "version": "39",
-  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.1/app-release.apk",
-  "changelog": "Allow exclusion of apps installed by an App Store (Play, Amazon).\nTurkish translation."
+  "version": "40",
+  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.2/app-release.apk",
+  "changelog": "Bug fixes for Search.\nBug fixes for Fdroid and Play updaters."
 }
