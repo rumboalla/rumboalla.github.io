@@ -1,5 +1,5 @@
 {
-  "version": "40",
-  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.2/app-release.apk",
-  "changelog": "Bug fixes for Search.\nBug fixes for Fdroid and Play updaters."
+  "version": "41",
+  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.3/app-release.apk",
+  "changelog": "Arabic translation.\nFrench translation.\nBug fixes."
 }
