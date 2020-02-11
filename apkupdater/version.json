@@ -1,5 +1,5 @@
 {
-  "version": "41",
-  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.3/app-release.apk",
-  "changelog": "Arabic translation.\nFrench translation.\nBug fixes."
+  "version": "42",
+  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.4/app-release.apk",
+  "changelog": "Italian translation.\nIndonesian translation.\nRemoved ads."
 }
