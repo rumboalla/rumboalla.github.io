@@ -1,5 +1,5 @@
 {
-  "version": "42",
-  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.4/app-release.apk",
-  "changelog": "Italian translation.\nIndonesian translation.\nRemoved ads."
+  "version": "43",
+  "apk": "https://github.com/rumboalla/apkupdater/releases/download/2.0.5/app-release.apk",
+  "changelog": "Improved alarm scheduling. Fixes #284\nOptional version name check. Implemented by hemker. Fixes #304 #318"
 }
